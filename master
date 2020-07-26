@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 34a0779817249d58204fe66e9f77db1e0fc1b17a krithikvaidya <krithikvaidya@gmail.com> 1595076784 +0530	commit (initial): Add README.md
+34a0779817249d58204fe66e9f77db1e0fc1b17a 386c283d17aae38ee662bdb4c68a5eb5a66897bd krithikvaidya <krithikvaidya@gmail.com> 1595076832 +0530	commit: Edit README.md
+386c283d17aae38ee662bdb4c68a5eb5a66897bd fb5c4fafe048ce1123a7b89e8246e3aa427ffacb krithikvaidya <krithikvaidya@gmail.com> 1595076864 +0530	commit: Edit README.md
+fb5c4fafe048ce1123a7b89e8246e3aa427ffacb baeee43d8f96358fc8fd6df72ffde32fb06b7ef2 krithikvaidya <krithikvaidya@gmail.com> 1595076893 +0530	commit: Edit README.md
+baeee43d8f96358fc8fd6df72ffde32fb06b7ef2 540fbf80dabd6c00955fe99f5ba8d96d119b3de9 krithikvaidya <krithikvaidya@gmail.com> 1595076924 +0530	commit: Edit README.md
+540fbf80dabd6c00955fe99f5ba8d96d119b3de9 4de174eab57b99d061f50bd4a45b8e1db4490625 krithikvaidya <krithikvaidya@gmail.com> 1595076997 +0530	commit: Edit README.md
+4de174eab57b99d061f50bd4a45b8e1db4490625 ad13cdda963e757d01cc126cbc23a019dff20fe5 krithikvaidya <krithikvaidya@gmail.com> 1595077135 +0530	commit: Edit README.md
+ad13cdda963e757d01cc126cbc23a019dff20fe5 cca681e0af53529fe6ef0fd0246247b0e4a70f64 krithikvaidya <krithikvaidya@gmail.com> 1563454735 +0530	filter-branch: rewrite
+cca681e0af53529fe6ef0fd0246247b0e4a70f64 7f44bcf4ddf560d77537610ff4eb7fae761593b2 krithikvaidya <krithikvaidya@gmail.com> 1563541135 +0530	filter-branch: rewrite
+7f44bcf4ddf560d77537610ff4eb7fae761593b2 65d83e2b6e3efa94edde4bd88e1ebef074b3407f krithikvaidya <krithikvaidya@gmail.com> 1563627535 +0530	filter-branch: rewrite
+65d83e2b6e3efa94edde4bd88e1ebef074b3407f 08c4e262259256f7df64accf34503fca0a18e9c3 krithikvaidya <krithikvaidya@gmail.com> 1595078144 +0530	rebase -i (finish): refs/heads/master onto fef3e2cc98d21340e192374c3aadeaaa7094d0c6
+08c4e262259256f7df64accf34503fca0a18e9c3 77866cbb6d137e1837b09dd44d499e36105e594c krithikvaidya <krithikvaidya@gmail.com> 1595078181 +0530	rebase -i (finish): refs/heads/master onto e57490edd104971af49adeb151dacc697ef5d04e
+77866cbb6d137e1837b09dd44d499e36105e594c 3bdb4f1f5d0a4a2ca693fd8427567768c4030b3d krithikvaidya <krithikvaidya@gmail.com> 1595570035 +0530	filter-branch: rewrite
+3bdb4f1f5d0a4a2ca693fd8427567768c4030b3d 23cf8372099ca60b72b8d186cf19ce2d330fc006 krithikvaidya <krithikvaidya@gmail.com> 1595571194 +0530	commit (amend): Edit README.md
+23cf8372099ca60b72b8d186cf19ce2d330fc006 5766da3765d7d2122e4d458c54fdd6a723977c7c krithikvaidya <krithikvaidya@gmail.com> 1595571524 +0530	rebase -i (finish): refs/heads/master onto 87229685a079d329456c7246e6770ab66d6b0f2b
+5766da3765d7d2122e4d458c54fdd6a723977c7c d59f075b92cacb2364f8e9e521c1051b4b3c4733 krithikvaidya <krithikvaidya@gmail.com> 1595571730 +0530	rebase -i (finish): refs/heads/master onto 76de8447191d1d3de93ae0fe941cd3b7fe674a72
+d59f075b92cacb2364f8e9e521c1051b4b3c4733 a428204e3249a16bba857ebbffd60c295ef846e5 krithikvaidya <krithikvaidya@gmail.com> 1595572036 +0530	rebase -i (finish): refs/heads/master onto b53c29856adf9d2e72bee5b4fe128cdc5eda3a30
+a428204e3249a16bba857ebbffd60c295ef846e5 c15b44e314bf5c1bba0f14fa3b68f44c07d876f2 krithikvaidya <krithikvaidya@gmail.com> 1595572156 +0530	rebase -i (finish): refs/heads/master onto cc0f1fea9dc5c4ef00d79365db43c9b6d2660109
+c15b44e314bf5c1bba0f14fa3b68f44c07d876f2 16948420063a5e9d01ba4cddedc484ee48edeb21 krithikvaidya <krithikvaidya@gmail.com> 1595572488 +0530	rebase -i (finish): refs/heads/master onto b391a620cf6806fd03ff1d23f1b25b3599a6dbe6
+16948420063a5e9d01ba4cddedc484ee48edeb21 4a98ced96300e57aa866d4f499fc0fc47572a541 krithikvaidya <krithikvaidya@gmail.com> 1595573538 +0530	rebase -i (finish): refs/heads/master onto 2b950b61740fec2387490ead0988e687c45d1ba7
+4a98ced96300e57aa866d4f499fc0fc47572a541 85e522d475ebc4b5d11b21ada31924a41d6a3208 krithikvaidya <krithikvaidya@gmail.com> 1595573601 +0530	rebase -i (finish): refs/heads/master onto 7cc14827c5b9db61867ff348fbebd46c7a769b8b
+85e522d475ebc4b5d11b21ada31924a41d6a3208 65323a54734853e146e3cf2fba4e5b36721c0e69 krithikvaidya <krithikvaidya@gmail.com> 1595575808 +0530	reset: moving to 65323
+65323a54734853e146e3cf2fba4e5b36721c0e69 a527f3f31cb9fae178fcf7180e1781319eee4ad2 krithikvaidya <krithikvaidya@gmail.com> 1595575862 +0530	rebase -i (finish): refs/heads/master onto 2ab44c8948ac56a13857fe9297190652b059c0a5
+a527f3f31cb9fae178fcf7180e1781319eee4ad2 bf74813ec96bb7b512916764b9b6fe55c34839aa krithikvaidya <krithikvaidya@gmail.com> 1595575931 +0530	rebase -i (finish): refs/heads/master onto b9a65171d0ca275392654505a0bc80a03f618532
+bf74813ec96bb7b512916764b9b6fe55c34839aa 717239fdfa30f3600ba198940a5c69498e7edbb8 krithikvaidya <krithikvaidya@gmail.com> 1595575972 +0530	commit (amend): Create master's notebook
+717239fdfa30f3600ba198940a5c69498e7edbb8 a1669f1544bf5cb6507fa8633d68d0cc60440f12 krithikvaidya <krithikvaidya@gmail.com> 1595576026 +0530	commit (amend): Create master's notebook
+a1669f1544bf5cb6507fa8633d68d0cc60440f12 e3763f8e096eddd08225610d1b441e09c5f41bda krithikvaidya <krithikvaidya@gmail.com> 1595576044 +0530	rebase -i (finish): refs/heads/master onto 9376722d35217c1e2d9febeb10ca6041006f11bb
+e3763f8e096eddd08225610d1b441e09c5f41bda 4f7c71c81477e46d437fd4f99f93d3b6e1e6cbc2 krithikvaidya <krithikvaidya@gmail.com> 1595576107 +0530	commit (amend): Create master's notebook
